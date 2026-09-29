@@ -8,3 +8,6 @@ This is football game from top view build with Codex. Kick the ball!
 <div align="center">
   <img src="images/2.png" alt="App Screenshot" width=80% height=80%>
 </div>
+<div align="center">
+  <img src="images/3.png" alt="App Screenshot" width=80% height=80%>
+</div>
